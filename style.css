@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(90deg, rgba(44,26,162,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+h1 {
+    text-align: center;
+    font-size: 22px;
+    color: rgb(167, 143, 22);
+    margin-top: 22px;
+}
