@@ -1,1 +1,1 @@
-# Javascript-Excercise-TRES
+# Javascript-Exercise-TRES
